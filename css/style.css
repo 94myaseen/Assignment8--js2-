@@ -1,0 +1,30 @@
+/* ! START GLOBAL STYLES */
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    font-size: 13px;
+
+}
+
+button:hover {
+    background-color: green;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    color: black;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: black;
+}
+.name p{
+    display: none;
+}
